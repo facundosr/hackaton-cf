@@ -17,7 +17,7 @@ const OpeningHours = () => {
 
   return (
      <div id="hours">
-        <h2>Horario de hoy</h2>
+        <h2>Horario de hoy =)</h2>
         <p>{todayHour.day} {todayHour.open} - {todayHour.close}</p>
     </div>
   );
